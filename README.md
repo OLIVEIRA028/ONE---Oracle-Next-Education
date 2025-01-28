@@ -48,27 +48,27 @@ Esses desafios foram resolvidos por meio do uso de validações simples, funçõ
 ### 1. **Erro de Campo de Nome Vazio ao Tentar Sortear**
 Caso o usuário tente sortear um amigo sem ter adicionado amigos à lista ou deixe o campo de nome vazio, o sistema exibirá um erro.
 
-![Erro de campo de nome vazio ao tentar sortear](https://github.com/OLIVEIRA028/ONE---Oracle-Next-Education/img_README/Erro%20de%20campo%20de%20nome%20vazio%20ao%20tentar%20sortear.png)
+![Erro de campo de nome vazio ao tentar sortear](img_README/Erro%20de%20campo%20de%20nome%20vazio%20ao%20tentar%20sortear.png)
 
 ### 2. **Erro de Campo de Nome Vazio**
 Se o campo de nome for deixado vazio ao tentar adicionar um amigo à lista, o sistema alerta o usuário.
 
-![Erro de campo de nome vazio](https://github.com/OLIVEIRA028/ONE---Oracle-Next-Education/img_README/Erro%20de%20campo%20de%20nome%20vazio.png)
+![Erro de campo de nome vazio](img_README/Erro%20de%20campo%20de%20nome%20vazio.png)
 
 ### 3. **Resultado do Sorteio**
 Após realizar o sorteio, o resultado do amigo secreto será exibido.
 
-![Resultado do Sorteio](https://github.com/OLIVEIRA028/ONE---Oracle-Next-Education/img_README/Resultado%20do%20Sorteio.png)
+![Resultado do Sorteio](img_README/Resultado%20do%20Sorteio.png)
 
 ### 4. **Tratativa de Letras no Resultado**
 Os nomes adicionados são formatados corretamente, com a primeira letra de cada palavra em maiúscula.
 
-![Tratativa de letras no resultado](https://github.com/OLIVEIRA028/ONE---Oracle-Next-Education/img_README/Tratativa%20de%20letras%20resultado.png)
+![Tratativa de letras no resultado](img_README/Tratativa%20de%20letras%20resultado.png)
 
 ### 5. **Tratativa de Letras na Inserção**
 Os nomes inseridos pelos usuários também são tratados, com a primeira letra em maiúscula, mesmo que o usuário digite em minúsculas.
 
-![Tratativa de letras](https://github.com/OLIVEIRA028/ONE---Oracle-Next-Education/img_README/Tratativa%20de%20letras.png)
+![Tratativa de letras](img_README/Tratativa%20de%20letras.png)
 
 ## 🤝 Como Contribuir
 
