@@ -23,6 +23,12 @@ Bem-vindo ao **Amigo Secreto**! Este projeto foi desenvolvido como parte do **Ch
 - `app.js`: O arquivo JavaScript que contém toda a lógica da aplicação.
 - **`/assets/`**: Pasta que contém as imagens utilizadas no HTML, como o ícone de sorteio e a imagem representativa do amigo secreto.
 
+## 🌐 Acesse o Projeto
+
+Você pode acessar o projeto online através do seguinte link:
+
+[Amigo Secreto - Projeto Vercel](https://one-oracle-next-education-nlqkykppe-oliveira028s-projects.vercel.app/)
+
 ## 💻 Como Usar
 
 1. Abra o arquivo `index.html` no seu navegador.
